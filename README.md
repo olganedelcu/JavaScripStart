@@ -1,2 +1,0 @@
-# JavaScripStart
-Created with CodeSandbox
